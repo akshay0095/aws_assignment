@@ -12,7 +12,7 @@ cat > /usr/share/nginx/html/index.html <<EOF
 <html>
   <head><title>AWS Assignment</title></head>
   <body>
-    <h1>Shopalyst assignment</h1>
+    <h1>Akshay</h1>
     <p>Served by $INSTANCE_ID in $AZ</p>
   </body>
 </html>
