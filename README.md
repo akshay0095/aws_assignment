@@ -6,7 +6,7 @@ Three-tier, highly available web stack on AWS, defined entirely in Terraform.
 
 | File | Purpose |
 |------|---------|
-| `versions.tf` | Terraform/provider versions, provider config, default tags |
+| `versions.tf` | Terraform, provider config, default tags |
 | `variables.tf` | All inputs with defaults |
 | `network.tf` | VPC, subnets, IGW, NAT Gateways, route tables |
 | `security_groups.tf` | `alb-sg`, `web-sg`, `db-sg` |
